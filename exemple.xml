@@ -1,0 +1,12 @@
+<friendList>
+	<friend>
+		<firstName>Jean</firstName>
+		<surname>Ducon</surname>
+		<age>25</age>
+	</friend>
+	<friend>
+		<firstName>Paul</firstName>
+		<surname>Dufion</surname>
+		<age>75</age>
+	</friend>
+</friendList>
